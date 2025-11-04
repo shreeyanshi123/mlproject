@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 artifacts
+catboost_info
 Miniconda3-latest-MacOSX-arm64.sh
 notebook/catboost_info/
 .env
